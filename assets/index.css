@@ -1,5 +1,5 @@
 body {
-	background: url('image.jpg') no-repeat;
+	background: url('./image.jpg') no-repeat;
 	background-size: 100% 100%;
 	background-color: #fff;
 	margin: 0;
